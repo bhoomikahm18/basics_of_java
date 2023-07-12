@@ -1,0 +1,13 @@
+class whileloop
+{
+	public static void main(String args[])
+	{
+		
+
+		while(int i = 5)
+		{
+			System.out.println("My name is Bhoomika");
+			
+		}
+	}
+}

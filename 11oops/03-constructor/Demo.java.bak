@@ -1,0 +1,12 @@
+class Box
+{
+	int l;
+	int b;
+	int h;
+	Box(int x,int y, int z)
+	{
+		l = x;
+		b = y;
+		h = z;
+	}
+}
